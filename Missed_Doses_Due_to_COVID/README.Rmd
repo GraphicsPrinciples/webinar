@@ -1,5 +1,5 @@
 ---
-title: '"Missed Doses Due to COVID-19"'
+title: 'Missed Doses Due to COVID-19'
 output: github_document
 ---
 
@@ -8,6 +8,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 This repository contains materials for a hands on example for the Effective Visual Communication Webinar. 
+
+* [Purpose_Worksheet.docx](Purpose_Worksheet.docx) is a partially completed Purpose Worksheet setting up the purpose for the visualization exercise.
+* [Missed_Doses_Due_to_COVID.csv](Missed_Doses_Due_to_COVID.csv) is a dataset that can be used to generate visualizations for the exercise.
 
 # Background
 
@@ -29,9 +32,13 @@ Question:
 *  What effect would 1, 2, or 3 missed doses have on the efficacy of the current trial?
 *  Should the trial be stopped? Should the trial management team make significant efforts to increase compliance? Or is the predicted impact of these missed doses negligible? 
 
+# Purpose
+
+The Purpose Worksheet is intended to help with Step 1 of Effective Visual Communication (i.e., have a clear purpose). For this exercise, we have partially completed the [Purpose_Worksheet](Purpose_Worksheet.docx) for you, based on the background information above. Review the partially completed worksheet, make any changes you wish, and complete what hasn't been filled in.
+
 # Data
 
-A simulated dataset has been provided for this example: [Missed_Doses_Due_to_COVID.csv](Missed_Doses_Due_to_COVID.csv). 
+A simulated dataset has been provided for this example: [Missed_Doses_Due_to_COVID.csv](Missed_Doses_Due_to_COVID.csv). Part of this exercise involves you choosing what data to display and how, in order to support the Purpose. You may or may not use all of the information supplied in the dataset.
 
 The dataset represents a simulated set of individual patients following placebo, continuous treatment, or 1, 2, or 3 missed doses of Drug A. The dataset contains individual drug exposure information, as well as individual time-to-event information for the primary endpoint which is a time-to-event endpoint. Below are descriptions of the variables in the dataset
 
@@ -44,18 +51,14 @@ The dataset represents a simulated set of individual patients following placebo,
 * **avgAUEC** - average change from baseline in PD marker up to time of event (mmol/L)
 * **HRR** - model predicted relative change in hazard (relative to placebo) based on avgAUEC
 
-Below find the contents of the dataset, [Missed_Doses_Due_to_COVID.csv](Missed_Doses_Due_to_COVID.csv)
+Below find the first six rows of the dataset. Access the full dataset here: [Missed_Doses_Due_to_COVID.csv](Missed_Doses_Due_to_COVID.csv)
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
 library(tidyr)
 library(dplyr)
 data <- read.csv("Missed_Doses_Due_to_COVID.csv")
-DT::datatable(data %>% mutate(avgAUC = signif(avgAUC, 5), avgAUEC = signif(avgAUEC, 5), HRR = signif(HRR, 5)), rownames = FALSE)
+knitr::kable(data %>% mutate(avgAUC = signif(avgAUC, 5), avgAUEC = signif(avgAUEC, 5), HRR = signif(HRR, 5)) %>% head(), rownames = FALSE)
 ```
-
-# Purpose
-
-# Assignment
 
 
 
