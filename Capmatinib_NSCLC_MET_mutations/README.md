@@ -1,2 +1,61 @@
-# Capmatinib NSCLC MET mutations
-Repository for webinar materials
+Capmatinib NSCLC MET mutations
+================
+
+This repository contains materials for a hands on example for the
+Effective Visual Communication Webinar.
+
+  - [Purpose\_Worksheet.docx](Purpose_Worksheet.docx) is a partially
+    completed Purpose Worksheet setting up the purpose for the
+    visualization exercise.
+
+# Background
+
+This example pulls from Wolf et al. NEJM 2020; 383:944-957
+<https://www.nejm.org/doi/full/10.1056/NEJMoa2002787>, which describes
+the results of a Phase 2 study of Capmatinib in Non Small Cell Lung
+Cancer (NSCLC) patients with MET mutations.
+
+Situation:
+
+  - A Phase 2 study was conducted to evaluate the safety and efficacy of
+    Capmatinib (a selective inhibitor of the MET receptor) in patients
+    with advanced NSCLC and MET exon 14 skipping mutations and MET
+    amplifications
+  - Data available include tumor percent change from baseline, mutation
+    category, RECIST criteria, and progression free survival
+  - Primary endpoint was overall response (complete or partial
+    response). Clinically relevant efficacy was defined as \>= 35% in
+    previously treated patients (with 95% CI \> 25%) and \>= 55% in
+    patients not previously treated (with 95% CI \> 35%)
+  - Secondary endpoint was duration of response
+
+Question:
+
+  - Does Capmatinib show meaningful response in patients with various
+    types of MET mutation?
+
+Please consult
+[Wolf 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2002787) for
+further details on the background, purpose, summary data, and key
+messages. This will help you with Step 1 (have a clear purpose), Step 2
+(show the data clearly) and Step 3 (make the message obvious)
+
+# Purpose
+
+The Purpose Worksheet is intended to help with Step 1 of Effective
+Visual Communication (i.e., have a clear purpose). For this exercise, we
+have partially completed the
+[Purpose\_Worksheet](Purpose_Worksheet.docx) for you, based on the
+background information above. Review the partially completed worksheet,
+make any changes you wish, and complete what hasn’t been filled in.
+
+# Data
+
+Step 2 of Effective Visual Communication involves you choosing what data
+to display and how, in order to support the Purpose. Please see the
+[Wolf 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2002787) for
+figures and tables summarizing the key results which you can pull from
+for your visualization. Figure 2 in the publication is the primary
+visualization that was supplied to summarize the Phase 2 results. You
+may decide to improve this figure, or create your own based on other
+data in the publication in order to support the purpose.
