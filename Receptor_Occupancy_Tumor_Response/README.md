@@ -49,9 +49,9 @@ make any changes you wish, and complete what hasn’t been filled in.
 
 A simulated dataset has been provided for this example:
 [Receptor\_Occupancy\_Tumor\_Response.csv](Receptor_Occupancy_Tumor_Response.csv).
-Part of this exercise involves you choosing what data to display and
-how, in order to support the Purpose. You may or may not use all of the
-information supplied in the dataset.
+Step 2 of Effective Visual Communication involves you choosing what data
+to display and how, in order to support the Purpose. You may or may not
+use all of the information supplied in the dataset.
 
 The dataset represents a set of individual patients following treatment
 with the oncology drug. The dataset contains individual average receptor

@@ -54,10 +54,10 @@ make any changes you wish, and complete what hasn’t been filled in.
 # Data
 
 A simulated dataset has been provided for this example:
-[Missed\_Doses\_Due\_to\_COVID.csv](Missed_Doses_Due_to_COVID.csv). Part
-of this exercise involves you choosing what data to display and how, in
-order to support the Purpose. You may or may not use all of the
-information supplied in the dataset.
+[Missed\_Doses\_Due\_to\_COVID.csv](Missed_Doses_Due_to_COVID.csv). Step
+2 of Effective Visual Communication involves you choosing what data to
+display and how, in order to support the Purpose. You may or may not use
+all of the information supplied in the dataset.
 
 The dataset represents a simulated set of individual patients following
 placebo, continuous treatment, or 1, 2, or 3 missed doses of Drug A. The

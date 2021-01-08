@@ -37,7 +37,7 @@ The Purpose Worksheet is intended to help with Step 1 of Effective Visual Commun
 
 # Data
 
-A simulated dataset has been provided for this example: [Receptor_Occupancy_Tumor_Response.csv](Receptor_Occupancy_Tumor_Response.csv).  Part of this exercise involves you choosing what data to display and how, in order to support the Purpose. You may or may not use all of the information supplied in the dataset.
+A simulated dataset has been provided for this example: [Receptor_Occupancy_Tumor_Response.csv](Receptor_Occupancy_Tumor_Response.csv).  Step 2 of Effective Visual Communication involves you choosing what data to display and how, in order to support the Purpose. You may or may not use all of the information supplied in the dataset.
 
 The dataset represents a set of individual patients following treatment with the oncology drug. The dataset contains individual average receptor occupancy information (a function of drug exposure), as well as individual tumor size and RECIST criteria. Below are descriptions of the variables in the dataset
 
