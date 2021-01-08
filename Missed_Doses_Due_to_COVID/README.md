@@ -1,2 +1,72 @@
-# Missed Doses due to COVID-19
-Repository for webinar materials
+“Missed Doses Due to COVID-19”
+================
+
+This repository contains materials for a hands on example for the
+Effective Visual Communication Webinar.
+
+# Background
+
+This example is inspired by a drug being tested in a Phase 3 study
+during the COVID-19 pandemic. Drug kinetics and endpoints have been
+altered and no longer reflect the PKPD/efficacy properties of a real
+drug.
+
+Situation:
+
+  - A Phase 3 time to event trial is being conducted for Drug A during
+    the COVID-19 pandemic.
+  - Drug A is administered in the clinic by a health care provider.
+
+Complication:
+
+  - The clinical trial team has noticed a pattern of patients missing
+    dosing visits
+  - Due to the COVID-19 pandemic, patients’ access to the clinic has
+    been greatly impacted, resulting in patients missing one or more
+    dosing visits.
+  - The project team is considering whether mitigation is required, and
+    if so what action should be taken.
+
+Question:
+
+  - What effect would 1, 2, or 3 missed doses have on the efficacy of
+    the current trial?
+  - Should the trial be stopped? Should the trial management team make
+    significant efforts to increase compliance? Or is the predicted
+    impact of these missed doses negligible?
+
+# Data
+
+A simulated dataset has been provided for this example:
+[Missed\_Doses\_Due\_to\_COVID.csv](Missed_Doses_Due_to_COVID.csv).
+
+The dataset represents a simulated set of individual patients following
+placebo, continuous treatment, or 1, 2, or 3 missed doses of Drug A. The
+dataset contains individual drug exposure information, as well as
+individual time-to-event information for the primary endpoint which is a
+time-to-event endpoint. Below are descriptions of the variables in the
+dataset
+
+  - **id** - unique subject identifier
+  - **TRT** - treatment group, including number of missed doses (values:
+    “Continuous Treatment”, “1 dose missing”, “2 dose missing”, “3 dose
+    missing”, “Placebo”)
+  - **time** - time of event (years)
+  - **status** - event identifier (1 = right censored / lost to follow
+    up, 2 = event of interest / primary endpoint)
+  - **label** - description of event (values: “censored”, “event”)
+  - **avgAUC** - average drug exposure up to the time of the event
+    (ng/mL)
+  - **avgAUEC** - average change from baseline in PD marker up to time
+    of event (mmol/L)
+  - **HRR** - model predicted relative change in hazard (relative to
+    placebo) based on avgAUEC
+
+Below find the contents of the dataset,
+[Missed\_Doses\_Due\_to\_COVID.csv](Missed_Doses_Due_to_COVID.csv)
+
+![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+
+# Purpose
+
+# Assignment
