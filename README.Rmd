@@ -14,6 +14,9 @@ This repository contains materials for hands on examples for the Effective Visua
 * Option 2b: [Relationship between receptor occupancy and tumor response](Receptor_Occupancy_Tumor_Response/)
 * Option 3: Bring your own example
 
+TODO: HOW TO SUBMIT
+
+
 # Assignment:
 
 * **Step 1 (have a clear purpose):** Complete the Purpose Worksheet for the example you choose. Partially completed purpose worksheets are available for supplied examples. If you choose to bring your own example, a blank purpose worksheet is available here: [Purpose_Worksheet.docx](Purpose_Worksheet.docx)

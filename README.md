@@ -12,6 +12,8 @@ Effective Visual Communication Webinar.
     response](Receptor_Occupancy_Tumor_Response/)
   - Option 3: Bring your own example
 
+TODO: HOW TO SUBMIT
+
 # Assignment:
 
   - **Step 1 (have a clear purpose):** Complete the Purpose Worksheet
