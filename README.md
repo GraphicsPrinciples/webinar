@@ -30,4 +30,4 @@ discussion/feedback
 
 # References
 The purpose worksheet is inspired by the [big idea worksheet](https://drive.google.com/file/d/1WJDLkMVTxlDHyeGWzeKQmSiXdmlxQSAg/view) from the book:
-Knaflic, Cole. Storytelling With Data: Let’s Practice! Wiley, © 2019.
+Knaflic, Cole. Storytelling With Data: Let’s Practice! Wiley, © 2019. http://www.storytellingwithdata.com/
