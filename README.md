@@ -28,6 +28,15 @@ Effective Visual Communication Webinar.
 Please submit your examples ahead of Part 2 of the webinar for
 discussion/feedback
 
+# Any questions?
+
+For any questions please reach out directly to the facilitators through
+email or the [discussion
+board](https://github.com/GraphicsPrinciples/webinar/discussions).
+
 # References
-The purpose worksheet is inspired by the [big idea worksheet](https://drive.google.com/file/d/1WJDLkMVTxlDHyeGWzeKQmSiXdmlxQSAg/view) from the book:
-Knaflic, Cole. Storytelling With Data: Let’s Practice! Wiley, © 2019. http://www.storytellingwithdata.com/
+
+The purpose worksheet is inspired by the [big idea
+worksheet](https://drive.google.com/file/d/1WJDLkMVTxlDHyeGWzeKQmSiXdmlxQSAg/view)
+from the book: Knaflic, Cole. Storytelling With Data: Let’s Practice\!
+Wiley, © 2019. <http://www.storytellingwithdata.com/>
