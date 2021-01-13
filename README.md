@@ -63,8 +63,9 @@ Graphical principles initiative:
     on graphics principles and visR, and [blog
     post](https://blog.rstudio.com/2020/04/16/effective-visualizations-for-credible-data-driven-decision-making/)
   - R in Pharma 2020 talk on
-    [EVC](assets/EVC_Magnusson_RPharma2020.pdf),
-    [slides](assets/EVC_Magnusson_RPharma2020.pdf) and
+    [EVC](https://graphicsprinciples.github.io/assets/EVC_Magnusson_RPharma2020.pdf),
+    [slides](https://graphicsprinciples.github.io/assets/EVC_Magnusson_RPharma2020.pdf)
+    and
     [video](https://www.youtube.com/watch?v=TNMC-Ota29g&list=PLMtxz1fUYA5DSpVzwR7bT37IZqCT4SH5a&index=4).
   - The [xGx](https://opensource.nibr.com/xgx/) initiative from Novartis
     PMX.
