@@ -35,7 +35,8 @@ webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRS
 
 If you experience any issues with the
 [webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRSGjLnZK4uWeUQ_sUJUBg/viewform),
-please [email](mailto:graphics.principles@gmail.com) your submissions directly.
+please [email](mailto:graphics.principles@gmail.com) your submissions
+directly.
 
 # Any questions?
 
