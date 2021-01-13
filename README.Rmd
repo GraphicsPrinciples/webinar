@@ -32,6 +32,7 @@ If you experience any issues with the [webform](https://docs.google.com/forms/d/
 
 For any questions please reach out directly to the facilitators through [email](mailto:bailliem@gmail.com) or the [discussion board](https://github.com/GraphicsPrinciples/webinar/discussions). 
 
+
 # References
 
 * [Cheat sheet and tutorial](https://graphicsprinciples.github.io/)
