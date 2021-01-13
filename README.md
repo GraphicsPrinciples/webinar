@@ -94,6 +94,6 @@ Online resources:
     Jean-luc Doumont
   - [Data visualization](https://socviz.co/) by Kieran Healy - includes
     R code with examples.
-  - [Fundamwentals of data
+  - [Fundamentals of data
     vizualisation](https://serialmentor.com/dataviz/) by Claus Wilke -
     also includes R code with examples.
