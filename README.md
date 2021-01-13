@@ -6,10 +6,8 @@ Effective Visual Communication Webinar.
 
   - Option 1: [Capmatinib NSCLC MET
     mutations](Capmatinib_NSCLC_MET_mutations/)
-  - Option 2a: [Missed doses due to
+  - Option 2: [Missed doses due to
     COVID-19](Missed_Doses_Due_to_COVID/)
-  - Option 2b: [Relationship between receptor occupancy and tumor
-    response](Receptor_Occupancy_Tumor_Response/)
   - Option 3: Bring your own example
 
 TODO: HOW TO SUBMIT
