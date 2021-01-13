@@ -2,7 +2,9 @@ Hands on Examples
 ================
 
 This repository contains materials for hands on examples for the
-Effective Visual Communication Webinar.
+Effective Visual Communication Webinar. 
+
+For the assignment, **pick one** of the options below:
 
   - **Option 1 (improve a graph):** [Capmatinib NSCLC MET
     mutations](Capmatinib_NSCLC_MET_mutations/)
