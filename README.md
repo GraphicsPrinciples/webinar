@@ -33,10 +33,11 @@ Please submit your examples ahead of Part 2 of the webinar for
 discussion/feedback using the [following
 webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRSGjLnZK4uWeUQ_sUJUBg/viewform).
 
-If you experience any issues with the
+If you do not have a google drive login, or if you experience any issues
+with the
 [webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRSGjLnZK4uWeUQ_sUJUBg/viewform),
 please [email](mailto:graphics.principles@gmail.com) your submissions
-directly.
+directly to us.
 
 # Any questions?
 
