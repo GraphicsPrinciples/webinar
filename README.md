@@ -92,8 +92,8 @@ Online resources:
 
   - [Trees, maps and theorems](https://www.principiae.be/book/) by
     Jean-luc Doumont
-  - [Data visualization](https://socviz.co/) by Kieran Healy - includes
+  - [Data visualization](https://socviz.co/) by Kieran Healy, including
     R code with examples.
   - [Fundamentals of data
-    vizualisation](https://serialmentor.com/dataviz/) by Claus O. Wilke
-    - also includes R code with examples.
+    vizualisation](https://serialmentor.com/dataviz/) by Claus O. Wilke.
+    The book also includes R code with examples.
