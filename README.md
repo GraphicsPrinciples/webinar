@@ -95,5 +95,5 @@ Online resources:
   - [Data visualization](https://socviz.co/) by Kieran Healy - includes
     R code with examples.
   - [Fundamentals of data
-    vizualisation](https://serialmentor.com/dataviz/) by Claus Wilke -
-    also includes R code with examples.
+    vizualisation](https://serialmentor.com/dataviz/) by Claus O. Wilke
+    - also includes R code with examples.
