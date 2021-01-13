@@ -32,7 +32,7 @@ discussion/feedback using the [following
 webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRSGjLnZK4uWeUQ_sUJUBg/viewform).
 
 If you experience any issues with the
-[webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRSGjLnZK4uWeUQ_sUJUBg/viewform)
+[webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRSGjLnZK4uWeUQ_sUJUBg/viewform),
 please [email](mailto:bailliem@gmail.com) your submissions directly.
 
 # Any questions?
