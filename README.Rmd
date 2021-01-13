@@ -9,6 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This repository contains materials for hands on examples for the Effective Visual Communication Webinar. 
 
+For the assignment, **pick one** of the options below:
+
 * **Option 1 (improve a graph):** [Capmatinib NSCLC MET mutations](Capmatinib_NSCLC_MET_mutations/)
 * **Option 2 (create a graph):** [Missed doses due to COVID-19](Missed_Doses_Due_to_COVID/)
 * **Option 3:** Bring your own example
