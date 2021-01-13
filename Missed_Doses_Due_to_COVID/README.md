@@ -93,6 +93,11 @@ here: [Missed\_Doses\_Due\_to\_COVID.csv](Missed_Doses_Due_to_COVID.csv)
 |  5 | Placebo | 1.95 |      1 | censored |      0 |   0.278710 |   0.139360 |
 |  6 | Placebo | 1.15 |      1 | censored |      0 |   0.069280 |   0.034640 |
 
-
 # Downloading data
-NOTE to download a single data set as a csv file, click on the raw button and save the file. 
+
+**NOTE** to download a single data set locally as a [csv
+file](https://raw.githubusercontent.com/GraphicsPrinciples/webinar/main/Missed_Doses_Due_to_COVID/Missed_Doses_Due_to_COVID.csv),
+click on the raw button and save the
+[file](https://raw.githubusercontent.com/GraphicsPrinciples/webinar/main/Missed_Doses_Due_to_COVID/Missed_Doses_Due_to_COVID.csv).
+The [following link describes the process in further
+detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).

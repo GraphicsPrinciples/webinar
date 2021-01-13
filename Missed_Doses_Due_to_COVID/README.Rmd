@@ -60,6 +60,10 @@ data <- read.csv("Missed_Doses_Due_to_COVID.csv")
 knitr::kable(data %>% mutate(avgAUC = signif(avgAUC, 5), avgAUEC = signif(avgAUEC, 5), HRR = signif(HRR, 5)) %>% head(), rownames = FALSE)
 ```
 
+# Downloading data
+
+**NOTE** to download a single data set locally as a [csv file](https://raw.githubusercontent.com/GraphicsPrinciples/webinar/main/Missed_Doses_Due_to_COVID/Missed_Doses_Due_to_COVID.csv), click on the raw button and save the [file](https://raw.githubusercontent.com/GraphicsPrinciples/webinar/main/Missed_Doses_Due_to_COVID/Missed_Doses_Due_to_COVID.csv).
+The [following link describes the process in further detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).
 
 
 
