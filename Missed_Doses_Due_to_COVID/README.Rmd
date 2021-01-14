@@ -49,7 +49,7 @@ The dataset represents a simulated set of individual patients following placebo,
 * **label** - description of event (values: "censored", "event")
 * **avgAUC** - average drug exposure up to the time of the event (ng/mL)
 * **avgAUEC** - average change from baseline in PD marker up to time of event (mmol/L)
-* **HRR** - model predicted relative change in hazard (relative to placebo) based on avgAUEC
+* **HRR** - model predicted relative change in hazard based on avgAUEC (relative to avgAUEC of 0)
 
 Below find the first six rows of the dataset. Access the full dataset here: [Missed_Doses_Due_to_COVID.csv](Missed_Doses_Due_to_COVID.csv)
 
