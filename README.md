@@ -27,6 +27,8 @@ For the assignment, **pick one** of the options below:
   - **Step 3 (make the message obvious):** Choose a graph or two from
     the previous step, and refine to make the message obvious
 
+**Note:** For steps 2 and 3, you may choose to use pen and paper, or a drawing, graphing, or coding software. It's up to you!
+
 # How to submit your responses?
 
 Please submit your examples ahead of Part 2 of the webinar for
