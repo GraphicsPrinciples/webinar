@@ -78,8 +78,8 @@ dataset
     (ng/mL)
   - **avgAUEC** - average change from baseline in PD marker up to time
     of event (mmol/L)
-  - **HRR** - model predicted relative change in hazard (relative to
-    placebo) based on avgAUEC
+  - **HRR** - model predicted relative change in hazard based on avgAUEC 
+    (relative to avgAUEC of 0)
 
 Below find the first six rows of the dataset. Access the full dataset
 here: [Missed\_Doses\_Due\_to\_COVID.csv](Missed_Doses_Due_to_COVID.csv)
