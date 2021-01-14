@@ -43,7 +43,7 @@ A simulated dataset has been provided for this example: [Missed_Doses_Due_to_COV
 The dataset represents a simulated set of individual patients following placebo, continuous treatment, or 1, 2, or 3 missed doses of Drug A. The dataset contains individual drug exposure information, as well as individual time-to-event information for the primary endpoint which is a time-to-event endpoint. Below are descriptions of the variables in the dataset
 
 *  **id** - unique subject identifier
-* **TRT** - treatment group, including number of missed doses (values: "Continuous Treatment", "1 dose missing", "2 dose missing", "3 dose missing", "Placebo")
+* **TRT** - treatment group, including number of missed doses (values: "Continuous Treatment", "1 missing dose", "2 missing doses", "3 missing doses", "Placebo")
 * **time** - time of event (years)
 * **status** - event identifier (1 = right censored / lost to follow up, 2 = event of interest / primary endpoint)
 * **label** - description of event (values: "censored", "event")
