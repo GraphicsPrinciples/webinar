@@ -68,8 +68,8 @@ dataset
 
   - **id** - unique subject identifier
   - **TRT** - treatment group, including number of missed doses (values:
-    “Continuous Treatment”, “1 dose missing”, “2 dose missing”, “3 dose
-    missing”, “Placebo”)
+    “Continuous Treatment”, “1 missing dose”, “2 missing doses”, “3 
+    missing doses”, “Placebo”)
   - **time** - time of event (years)
   - **status** - event identifier (1 = right censored / lost to follow
     up, 2 = event of interest / primary endpoint)
