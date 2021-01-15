@@ -27,7 +27,8 @@ For the assignment, **pick one** of the options below:
   - **Step 3 (make the message obvious):** Choose a graph or two from
     the previous step, and refine to make the message obvious
 
-**Note:** For steps 2 and 3, you may choose to use pen and paper, or a drawing, graphing, or coding software. It's up to you!
+**Note:** For steps 2 and 3, you may choose to use pen and paper, or a
+drawing, graphing, or coding software. It’s up to you\!
 
 # How to submit your responses?
 
@@ -35,17 +36,53 @@ Please submit your examples ahead of Part 2 of the webinar for
 discussion/feedback using the [following
 webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRSGjLnZK4uWeUQ_sUJUBg/viewform).
 
+We will accept both produced figures as will as scanned images and
+photos of drawn ideas. Your example does not need to be perfect of
+polished. We are interested in your brainstorming ideas and thought
+process. We believe by sharing these ideas and workings with the
+community others will also benefit. Thank you for contributing\!
+
+Submit your examples by the end of **Wednesday 20Jan2021** if you would
+like to have your example discussed or presented during Webinar Part2 -
+Friday 22Jan2021.
+
 If you do not have a google drive login, or if you experience any issues
 with the
 [webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRSGjLnZK4uWeUQ_sUJUBg/viewform),
 please [email](mailto:graphics.principles@gmail.com) your submissions
 directly to us.
 
+Also, please feel free to submit your examples after this date if you
+would like feedback from the team. We plan to follow up on all
+submissions. Submit via
+[webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRSGjLnZK4uWeUQ_sUJUBg/viewform)
+or [email](mailto:graphics.principles@gmail.com) to be included as the
+Webinar Part2 discussion and feedback session.
+
+If you would prefer not to have your Submission to be made public, click
+on the option in the
+[webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRSGjLnZK4uWeUQ_sUJUBg/viewform)
+or indicate directly in your
+[email](mailto:graphics.principles@gmail.com).
+
 # Any questions?
 
 For any questions please reach out directly to the facilitators through
 [email](mailto:graphics.principles@gmail.com) or the [discussion
 board](https://github.com/GraphicsPrinciples/webinar/discussions).
+
+# Webinar materials
+
+Here are a list of the webinar materials:
+
+  - [Slides from
+    part 1](https://github.com/GraphicsPrinciples/webinar/blob/main/EVC_Webinar_for_ASCPT_PART1_15Jan2021.pdf)
+    presented 15Jan2021
+  - Shortcut to the [purpose
+    worksheet](https://github.com/GraphicsPrinciples/webinar/blob/main/Purpose_Worksheet.docx)
+  - The [ASCPT Pharmacometrics & Pharmacokinetcs (PMK)
+    Community](https://www.ascpt.org/Member-Services/Member-Tools/Webinar-Resources)
+    webinar site.
 
 # References
 
