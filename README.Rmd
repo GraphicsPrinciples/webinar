@@ -1,5 +1,5 @@
 ---
-title: 'Hands on Examples'
+title: 'EVC webinar resources'
 output: github_document
 ---
 
@@ -7,7 +7,13 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This repository contains materials for hands on examples for the Effective Visual Communication Webinar for the [ASCPT Pharmacometrics & Pharmacokinetcs (PMK) Community](https://www.ascpt.org/Member-Services/Member-Tools/Webinar-Resources).
+This repository contains materials for hands on examples for the Effective Visual Communication Webinar for the [ASCPT Pharmacometrics & Pharmacokinetcs (PMK) Community](https://www.ascpt.org/Member-Services/Member-Tools/Webinar-Resources). 
+
+The site supports a two-part webinar series run on the 15th and 22nd of Janruary, 2021. Part 2 will discuss submitted examples following the EVC principles introduced in [part 1](https://drive.google.com/file/d/12SQP_5RsfSgpi8rx-0jzeJjaGikBCT3O/view?usp=sharing). Below is a description of the three homework examples for part 2. 
+
+Please also feel free to also use the materials on your next project. Any feedback or comments on the materials are welcome!
+
+# Hands on Examples
 
 For the assignment, **pick one** of the options below:
 
