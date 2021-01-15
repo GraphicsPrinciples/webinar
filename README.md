@@ -76,7 +76,7 @@ board](https://github.com/GraphicsPrinciples/webinar/discussions).
 Here are a list of the webinar materials:
 
   - [Slides from
-    part 1](https://github.com/GraphicsPrinciples/webinar/blob/main/EVC_Webinar_for_ASCPT_PART1_15Jan2021.pdf)
+    part 1](https://drive.google.com/file/d/12SQP_5RsfSgpi8rx-0jzeJjaGikBCT3O/view?usp=sharing)
     presented 15Jan2021
   - Shortcut to the [purpose
     worksheet](https://github.com/GraphicsPrinciples/webinar/blob/main/Purpose_Worksheet.docx)
