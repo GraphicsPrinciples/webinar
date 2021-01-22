@@ -7,8 +7,10 @@ Pharmacokinetcs (PMK)
 Community](https://www.ascpt.org/Member-Services/Member-Tools/Webinar-Resources).
 
 The site supports a two-part webinar series run on the 15th and 22nd of
-Janruary, 2021. Part 2 will discuss submitted examples following the EVC
-principles introduced in
+Janruary, 2021.
+[Part 2](https://drive.google.com/file/d/1HF1rHylQ5dZy-UDXokyViK0JPtGeVcab/view?usp=sharing)
+will discuss submitted examples following the EVC principles introduced
+in
 [part 1](https://drive.google.com/file/d/12SQP_5RsfSgpi8rx-0jzeJjaGikBCT3O/view?usp=sharing).
 Below is a description of the three homework examples for part 2.
 
@@ -54,8 +56,9 @@ process. We believe by sharing these ideas and workings with the
 community others will also benefit. Thank you for contributing\!
 
 Submit your examples by the end of **Wednesday 20Jan2021** if you would
-like to have your example discussed or presented during Webinar Part2 -
-Friday 22Jan2021.
+like to have your example discussed or presented during [webinar
+Part2](https://drive.google.com/file/d/1HF1rHylQ5dZy-UDXokyViK0JPtGeVcab/view?usp=sharing)
+- Friday 22Jan2021.
 
 If you do not have a google drive login, or if you experience any issues
 with the
@@ -70,7 +73,7 @@ submissions. Submit via
 or [email](mailto:graphics.principles@gmail.com) to be included as the
 Webinar Part2 discussion and feedback session.
 
-If you would prefer not to have your Submission to be made public, click
+If you would prefer not to have your submission to be made public, click
 on the option in the
 [webform](https://docs.google.com/forms/d/e/1FAIpQLScB3PMzu2shmkzWHO8wTZ9dNaMibRSGjLnZK4uWeUQ_sUJUBg/viewform)
 or indicate directly in your
@@ -89,6 +92,9 @@ Here are a list of the webinar materials:
   - [Slides from
     part 1](https://drive.google.com/file/d/12SQP_5RsfSgpi8rx-0jzeJjaGikBCT3O/view?usp=sharing)
     presented 15Jan2021
+  - [Slides from
+    part 2](https://drive.google.com/file/d/1HF1rHylQ5dZy-UDXokyViK0JPtGeVcab/view?usp=sharing)
+    presented 22Jan2021
   - Shortcut to the [purpose
     worksheet](https://github.com/GraphicsPrinciples/webinar/blob/main/Purpose_Worksheet.docx)
   - The [ASCPT Pharmacometrics & Pharmacokinetcs (PMK)
