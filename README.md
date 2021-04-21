@@ -142,7 +142,7 @@ Data visualization initiatives:
   - The STRengthening Analytical Thinking for Observational Studies
     [(STRATOS)](https://www.stratos-initiative.org/) visualisation
     [panel](https://www.stratos-initiative.org/node/61)
-  - The [visR initiative](https://openpharma.github.com/visR).
+  - The [visR initiative](https://openpharma.github.io/visR).
 
 Online resources:
 
